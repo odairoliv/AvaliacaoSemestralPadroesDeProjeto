@@ -1,6 +1,6 @@
 # Soluções - Padrões de Projeto (Factory Method e Strategy)
 
-Este repositório contém as implementações em Java para um conjunto de exercícios focados nos Padrões de Projeto GoF (*Gang of Four*). O objetivo é demonstrar o uso prático dos padrões **Factory Method** e **Strategy** para resolver problemas comuns de design de software.
+Este repositório contém as implementações em Java para um conjunto de exercícios. O objetivo é demonstrar o uso prático dos padrões **Factory Method** e **Strategy** para resolver problemas comuns de design de software.
 
 ---
 
@@ -37,7 +37,7 @@ O Factory Method é um padrão de criação que resolve o problema de criar obje
 
 ---
 
-## 📈 Questão 2: Análise de Investimentos (Padrão Strategy)
+## Questão 2: Análise de Investimentos (Padrão Strategy)
 
 ### O Desafio
 
